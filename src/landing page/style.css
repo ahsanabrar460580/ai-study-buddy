@@ -578,7 +578,7 @@ select {
 .pdf-preview-image {
   position: absolute;
   inset: 0;
-  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA4M648XIH8a-CIfDBrsTjxXvJGf0Bdjvi_v-PdOmdYdMl0Yn7oL5hPZZIRtwfpHTAcSnvjxfoFrpyYRttu4fs5M0XEQM01yLO04l0Tx5RjEimVuufWPmypn1VsaFLGCTpWfGzkJr7QfdhV6osrpMGt15yVAEeHmu1zaoMTmIzgmdQ_d3iq4XcS4Q4As-XCsrIHyANFQcVDUMksw8IVvj6JEnZ5d-Cu3Shme9J4EQnk8MOsRy27msowOA");
+  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA4M648XIH8a-CIfDBrsTjxXvJGf0Bdjvi_v-PdOmdYdMl0Yn7oL5hPZZIRtwfpHTAcSnvjxfoFrpyYRttu4fs5M0XEQM01yLO04l0Tx5RjEimVuufWPmypn1VsaFLGCTpWfGzkJr7QfdhV6osrpMGt15yVAEeHmu1zaoMTmIzgmdQ_d3iq4XcS4Q4As-XCsrIHyANFQcVDUMksw8IVvj6JEnZ5d-CuS3hme9J4EQnk8MOsRy27msowOA");
   background-position: center;
   background-size: cover;
   transition: transform 0.5s ease;
